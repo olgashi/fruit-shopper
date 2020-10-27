@@ -4,7 +4,3 @@
 Fully capable e-commerce app.
 
 ### Deployed: https://fruit-shopper.herokuapp.com/products
-
-### Notable features
-
-
